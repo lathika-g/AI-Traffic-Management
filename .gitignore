@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pt
+videos/*
+!videos/.gitkeep
+results/*
+!results/.gitkeep
+.vscode/
+.idea/
